@@ -191,8 +191,8 @@
 /* Featured badge */
 .project-featured-badge {
   position: absolute;
-  top: 10px;
-  right: 20px;
+  top: 16px;
+  right: 16px;
   font-family: var(--font-mono);
   font-size: 9px;
   letter-spacing: 0.08em;
