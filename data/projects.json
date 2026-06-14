@@ -12,7 +12,7 @@
       "Exposed the pipeline via FastAPI endpoints returning structured JSON; built a responsive Flask frontend for file upload, JD input, and real-time tailored resume output."
     ],
     "stack": ["Python", "PyMuPDF", "TensorFlow Hub", "KeyBERT", "Claude API", "FastAPI", "Flask"],
-    "github": "https://github.com/Saumy-m",
+    "github": "https://github.com/Saumy-m/ResumeTweaker",
     "featured": true
   },
   {
@@ -27,7 +27,7 @@
       "Improved input validation, session persistence, and API reliability across the full stack."
     ],
     "stack": ["Node.js", "Next.js", "Express.js", "React", "MongoDB"],
-    "github": "https://github.com/Saumy-m",
+    "github": "https://github.com/Saumy-m/vibe-together",
     "featured": true
   },
   {
@@ -41,7 +41,7 @@
       "Implemented input validation and error handling to ensure reliable behaviour across real-world usage scenarios."
     ],
     "stack": ["Python", "Flask", "FastAPI", "IBM Watson NLP", "JavaScript"],
-    "github": "https://github.com/Saumy-m",
+    "github": "https://github.com/Saumy-m/",
     "featured": false
   },
   {
@@ -55,7 +55,7 @@
       "Evaluated three congestion-reduction strategies, achieving up to 11.19% improvement in average travel time through quantitative comparative analysis."
     ],
     "stack": ["Python", "NetworkX", "NumPy", "Matplotlib"],
-    "github": "https://github.com/Saumy-m",
+    "github": "https://github.com/tanayshah20/comp4602_roadNetworks",
     "featured": false
   },
   {
@@ -68,7 +68,7 @@
       "Applied OOP design principles across separated UI, header, and implementation files; used Qt signals and async wait functions to simulate live multi-threaded monitoring behaviour."
     ],
     "stack": ["C++", "Qt", "QCustomPlot", "FFT", "Unix"],
-    "github": "https://github.com/Saumy-m",
+    "github": "https://github.com/Saumy-m/NeuresetTeamProject",
     "featured": false
   }
 ]
