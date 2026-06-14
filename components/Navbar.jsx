@@ -19,6 +19,7 @@ export default function Navbar({ name }) {
     { href: '#projects', label: 'Projects' },
     { href: '#skills', label: 'Skills' },
     { href: '#education', label: 'Education' },
+    { href: '#certifications', label: 'Certifications' },
   ];
 
   return (
@@ -44,8 +45,8 @@ export default function Navbar({ name }) {
               {l.label}
             </a>
           ))}
-          <a href="mailto:saumyamehta.0610@gmail.com" className="navbar-cta">
-            Hire Me
+          <a href="#connect" className="navbar-cta">
+            Connect with Me
           </a>
         </div>
       </div>

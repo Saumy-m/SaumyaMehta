@@ -7,6 +7,7 @@ import Skills from '../components/Skills';
 import Education from '../components/Education';
 import Certifications from '../components/Certifications';
 import Footer from '../components/Footer';
+import ContactPage from '../components/Connect';
 
 // ── Data imports (edit these JSON files to update your portfolio content) ──
 import profile from '../data/profile.json';
@@ -60,6 +61,9 @@ export default function Home() {
 
         <div className="section-divider" />
         <Certifications items={certifications} activities={activities} />
+
+        <div className="section-divider" />
+        <ContactPage />
       </main>
 
       <Footer profile={profile} />
