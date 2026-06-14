@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeTweaker",
+    "period": "May 2026 – Present",
+    "status": "active",
+    "description": "An end-to-end AI-powered resume tailoring pipeline that parses uploaded PDFs and DOCX files, performs semantic gap analysis against a target job description, rephrases project bullets to include missing keywords, and exports the edited resume in the original format.",
+    "highlights": [
+      "Engineered a vertical-first block-sorting algorithm using PyMuPDF (fitz) to extract block coordinates and preserve multi-column resume layout integrity — solving a fundamental failure mode of standard text parsers.",
+      "Replaced keyword frequency counting with contextual embedding similarity: integrated TensorFlow Hub with KeyBERT to compute cosine similarity scores between resume phrases and JD requirements.",
+      "Designed a decoupled LLM pipeline using the Claude API — local scripts handle extraction and gap mapping while the model is scoped strictly to rephrasing achievements, protecting PII and maximising edit precision.",
+      "Exposed the pipeline via FastAPI endpoints returning structured JSON; built a responsive Flask frontend for file upload, JD input, and real-time tailored resume output."
+    ],
+    "stack": ["Python", "PyMuPDF", "TensorFlow Hub", "KeyBERT", "Claude API", "FastAPI", "Flask"],
+    "github": "https://github.com/Saumy-m",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "VibeTogether",
+    "period": "Apr. 2026 – Present",
+    "status": "active",
+    "description": "A full-stack social platform that matches users based on shared hobbies and activities. Re-engineered from a hackathon prototype with improved architecture, data modeling, and feature scope.",
+    "highlights": [
+      "Redesigned the application using Node.js, Express, React, and Next.js with MongoDB, introducing cleaner separation of concerns and more scalable schema design than the original build.",
+      "Extended session-based authentication, user registration, and profile matching logic to support activity-based discovery.",
+      "Improved input validation, session persistence, and API reliability across the full stack."
+    ],
+    "stack": ["Node.js", "Next.js", "Express.js", "React", "MongoDB"],
+    "github": "https://github.com/Saumy-m",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Emotion Detector",
+    "period": "Sept. 2025 – Oct. 2025",
+    "status": "completed",
+    "description": "A full-stack web application using Flask and JavaScript to classify and visualise emotional sentiment from user-submitted text in real time using IBM Watson NLP.",
+    "highlights": [
+      "Integrated IBM Watson NLP for multi-label emotion detection across multiple sentiment categories; designed FastAPI endpoints returning structured probability scores.",
+      "Implemented input validation and error handling to ensure reliable behaviour across real-world usage scenarios."
+    ],
+    "stack": ["Python", "Flask", "FastAPI", "IBM Watson NLP", "JavaScript"],
+    "github": "https://github.com/Saumy-m",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Road Network Simulation",
+    "period": "Jan. 2025 – Apr. 2025",
+    "status": "completed",
+    "description": "Modelled the Carleton University campus road network as a weighted graph to simulate randomised traffic movement, congestion buildup, and evaluate congestion-reduction strategies.",
+    "highlights": [
+      "Developed Vehicle and Controller classes to simulate randomised traffic movement, congestion buildup, and travel time distribution; visualised flow hotspots using NetworkX DiGraph and Matplotlib.",
+      "Evaluated three congestion-reduction strategies, achieving up to 11.19% improvement in average travel time through quantitative comparative analysis."
+    ],
+    "stack": ["Python", "NetworkX", "NumPy", "Matplotlib"],
+    "github": "https://github.com/Saumy-m",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Neureset EEG Device",
+    "period": "Jan. 2024 – Apr. 2024",
+    "status": "completed",
+    "description": "A desktop EEG simulation prototype in C++ with Qt, implementing real-time waveform visualisation via QCustomPlot and FFT-based frequency component analysis.",
+    "highlights": [
+      "Applied OOP design principles across separated UI, header, and implementation files; used Qt signals and async wait functions to simulate live multi-threaded monitoring behaviour."
+    ],
+    "stack": ["C++", "Qt", "QCustomPlot", "FFT", "Unix"],
+    "github": "https://github.com/Saumy-m",
+    "featured": false
+  }
+]

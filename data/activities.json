@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Hack the Hill II",
+    "location": "Ottawa, ON",
+    "date": "Sept. 2024",
+    "description": "Competed in a team hackathon, delivering a working full-stack application under time constraints, practising rapid debugging and Git-based collaboration."
+  },
+  {
+    "id": 2,
+    "name": "Hack the Tunnels",
+    "location": "Ottawa, ON",
+    "date": "Sept. 2023",
+    "description": "Diagnosed and fixed bugs in a pre-built faulty application as part of a team under strict time constraints, strengthening code comprehension and collaborative problem-solving."
+  }
+]

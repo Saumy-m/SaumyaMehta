@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "label": "Languages",
+      "items": ["Python", "C", "C++", "JavaScript", "TypeScript", "Java", "HTML/CSS", "SQL", "NoSQL"]
+    },
+    {
+      "label": "AI / ML",
+      "items": ["TensorFlow", "Keras", "KeyBERT", "IBM Watson NLP", "NLP Pipelines", "Cosine Similarity", "LLM Integration", "Prompt Engineering"]
+    },
+    {
+      "label": "Frameworks",
+      "items": ["React.js", "Express.js", "Next.js", "Node.js", "Flask", "FastAPI", "Angular.js", "Qt", "OpenCV"]
+    },
+    {
+      "label": "Data & Libraries",
+      "items": ["pandas", "NumPy", "Matplotlib", "NetworkX", "PyMuPDF (fitz)", "PostgreSQL", "MongoDB"]
+    },
+    {
+      "label": "Developer Tools",
+      "items": ["Git", "GitHub", "Docker", "AWS (SES/SNS)", "VS Code", "IntelliJ", "Jira", "Linux/Unix", "Virtual Machines"]
+    }
+  ]
+}

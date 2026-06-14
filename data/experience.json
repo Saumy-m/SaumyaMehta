@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Industry Mentorship & Hands-On Learning",
+    "company": "eLearningWorld",
+    "location": "Remote",
+    "period": "Nov. 2025 – Present",
+    "current": true,
+    "bullets": [
+      "Shadowed and contributed to a production LLM-powered language services platform under direct industry mentorship, gaining real-world exposure to backend architecture, API design, and cloud workflows.",
+      "Supported development of TypeScript REST APIs with Express.js and Angular; assisted in designing MongoDB schemas for project lifecycle management.",
+      "Gained practical experience with AWS services (SES/SNS) for secure email verification and automated client notifications within an active Agile business environment."
+    ],
+    "tags": ["TypeScript", "Express.js", "Angular", "MongoDB", "AWS"]
+  },
+  {
+    "id": 2,
+    "title": "Junior Full Stack Developer",
+    "company": "PixlNext",
+    "location": "Remote",
+    "period": "Aug. 2025 – Jan. 2026",
+    "current": false,
+    "bullets": [
+      "Tested a client web application end-to-end, identifying and resolving login authentication bugs in production code.",
+      "Built and manually tested production builds using Expo, gaining hands-on experience with cross-platform deployment workflows.",
+      "Managed API key and token access control across development environments, ensuring secure credential distribution to authorised team members.",
+      "Coordinated Jira sprint planning and helped structure development cycles for client website builds from scratch."
+    ],
+    "tags": ["Expo", "React Native", "Jira", "Authentication", "API Security"]
+  },
+  {
+    "id": 3,
+    "title": "Technical Project Manager",
+    "company": "LUUMI",
+    "location": "Ottawa, ON",
+    "period": "Nov. 2022 – Aug. 2024",
+    "current": false,
+    "bullets": [
+      "Led the redesign and migration of the POS frontend from Tkinter to Qt, significantly improving usability and application performance.",
+      "Managed POS transaction data integrity by working closely with developers to optimise PostgreSQL queries and improve UI responsiveness.",
+      "Partnered with stakeholders to build Power BI reporting dashboards, ensuring accurate data mapping and actionable business insights.",
+      "Coordinated project planning, technical documentation, and cross-team alignment throughout the development lifecycle."
+    ],
+    "tags": ["Qt", "PostgreSQL", "Power BI", "Python", "Project Management"]
+  }
+]

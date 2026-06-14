@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor of Computer Science Honours",
+    "institution": "Carleton University",
+    "location": "Ottawa, ON",
+    "period": "Sept. 2021 – July 2025",
+    "highlights": []
+  },
+  {
+    "id": 2,
+    "degree": "High School Diploma, Computer Science",
+    "institution": "Al Khor International School",
+    "location": "Qatar",
+    "period": "Sept. 2014 – Apr. 2021",
+    "highlights": []
+  }
+]

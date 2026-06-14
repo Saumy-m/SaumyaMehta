@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "IBM Generative AI Engineering Professional Certificate",
+    "issuer": "Coursera / IBM",
+    "date": "In Progress (12 / 16 courses complete)",
+    "status": "in-progress",
+    "details": "Includes: LLMs & Architecture, Transformers, Deep Learning & Keras, Fine-Tuning with PEFT"
+  },
+  {
+    "id": 2,
+    "name": "Machine Learning with Python",
+    "issuer": "IBM",
+    "date": "May 2026",
+    "status": "completed",
+    "details": ""
+  },
+  {
+    "id": 3,
+    "name": "Introduction to Deep Learning & Neural Networks with Keras",
+    "issuer": "IBM",
+    "date": "May 2026",
+    "status": "completed",
+    "details": ""
+  },
+  {
+    "id": 4,
+    "name": "Developing AI Applications with Python and Flask",
+    "issuer": "IBM",
+    "date": "Nov. 2025",
+    "status": "completed",
+    "details": ""
+  },
+  {
+    "id": 5,
+    "name": "Generative AI – Prompt Engineering Basics",
+    "issuer": "IBM",
+    "date": "Aug. 2025",
+    "status": "completed",
+    "details": ""
+  }
+]
