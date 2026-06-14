@@ -7,8 +7,8 @@ const nextConfig = {
   },
   // If deploying to a subdirectory (e.g. github.com/username/portfolio),
   // uncomment and set the repo name:
-  // basePath: '/portfolio',
-  // assetPrefix: '/portfolio/',
+  basePath: '/portfolio',
+  assetPrefix: '/portfolio/',
 };
 
 module.exports = nextConfig;
