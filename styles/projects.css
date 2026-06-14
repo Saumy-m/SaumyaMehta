@@ -40,7 +40,7 @@
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 44px 28px 28px 28px;
+  padding: 28px;
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -78,17 +78,14 @@
 }
 
 .project-icon {
-  position: relative;
-  top: 50px;
-  right: 20px;
   width: 40px;
   height: 40px;
   border-radius: var(--radius-sm);
   background: var(--accent-dim);
   border: 1px solid var(--border);
   display: flex;
-  align-items: bottom;
-  justify-content: bottom;
+  align-items: center;
+  justify-content: center;
   color: var(--accent-light);
   font-size: 18px;
 }
