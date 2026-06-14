@@ -114,6 +114,7 @@
   font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.06em;
+  padding-bottom: 10px;
 }
 
 .project-status.active {
