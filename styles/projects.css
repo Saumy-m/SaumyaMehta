@@ -78,6 +78,7 @@
 }
 
 .project-icon {
+  position: relative;
   width: 40px;
   height: 40px;
   border-radius: var(--radius-sm);
@@ -189,7 +190,7 @@
 
 /* Featured badge */
 .project-featured-badge {
-  position: relative;
+  position: absolute;
   top: 10px;
   right: 20px;
   font-family: var(--font-mono);
