@@ -114,7 +114,7 @@
   font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.06em;
-  padding-bottom: 10px;
+  
 }
 
 .project-status.active {
@@ -200,6 +200,7 @@
   background: var(--accent-dim);
   border: 1px solid var(--border);
   padding: 2px 7px;
+  padding-bottom: 10px;
   border-radius: 4px;
 }
 
