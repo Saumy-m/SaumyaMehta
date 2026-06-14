@@ -84,8 +84,8 @@
   background: var(--accent-dim);
   border: 1px solid var(--border);
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: bottom;
+  justify-content: bottom;
   color: var(--accent-light);
   font-size: 18px;
 }
