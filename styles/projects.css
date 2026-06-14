@@ -40,7 +40,7 @@
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 28px;
+  padding: 44px 28px 28px 28px;
   display: flex;
   flex-direction: column;
   gap: 16px;
