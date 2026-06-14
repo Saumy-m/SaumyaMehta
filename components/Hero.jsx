@@ -34,6 +34,9 @@ export default function Hero({ profile }) {
               <a href="#experience" className="btn btn-outline">
                 My Experience
               </a>
+              <a href="#connect" className="btn btn-ghost">
+                Connect
+              </a>
             </div>
 
             <div className="hero-available">

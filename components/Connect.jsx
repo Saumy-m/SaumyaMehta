@@ -80,7 +80,7 @@ export default function ContactPage() {
     // Build a mailto: link from the form fields so clicking Send opens the mail client
     // pre-filled — no backend needed. Swap for a fetch() to Formspree/EmailJS later.
     function buildMailto() {
-        const body = `Name: ${fields.name}\nEmail: ${fields.email}\n\n${fields.message}`;
+        const body = `${fields.message}`;
         return `mailto:${profile.email}?subject=${encodeURIComponent(fields.subject)}&body=${encodeURIComponent(body)}`;
     }
 
@@ -226,20 +226,6 @@ export default function ContactPage() {
                                     </a>
                                 </div>
                             </div>
-                        </div>
-
-                        {/* ── Availability banner ── */}
-                        <div className="contact-availability">
-                            <div className="contact-availability-left">
-                                <div className="contact-availability-dot" />
-                                <div className="contact-availability-text">
-                                    <strong>Currently open to new opportunities</strong>
-                                    <span>Full-time · Contract · Remote · Ottawa & anywhere in Canada</span>
-                                </div>
-                            </div>
-                            <a href={`mailto:${profile.email}`} className="btn btn-outline" style={{ whiteSpace: 'nowrap' }}>
-                                Email Directly
-                            </a>
                         </div>
                     </div>
                 </section>

@@ -15,8 +15,7 @@ export default function Navbar({ name }) {
     : 'SM';
 
   const links = [
-    { href: '#experience', label: 'Experience' },
-    { href: '#projects', label: 'Projects' },
+    
     { href: '#skills', label: 'Skills' },
     { href: '#education', label: 'Education' },
     { href: '#certifications', label: 'Certifications' },
