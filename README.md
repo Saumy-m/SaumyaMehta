@@ -30,6 +30,7 @@ portfolio/
 │   ├── Skills.jsx
 │   ├── Education.jsx
 │   ├── Certifications.jsx
+│   ├── Connect.jsx
 │   └── Footer.jsx
 │
 ├── data/                     ← ✏️  EDIT THESE to update content
@@ -47,6 +48,7 @@ portfolio/
 │   └── index.jsx             ← main page (assembles all sections)
 │
 ├── styles/
+│   ├── connect.css           ← design contact info and email draft card
 │   ├── globals.css           ← design tokens, reset, layout
 │   ├── nav.css               ← navbar styles
 │   ├── hero.css              ← hero section
