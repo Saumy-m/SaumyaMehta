@@ -38,5 +38,13 @@
     "date": "Aug. 2025",
     "status": "completed",
     "details": ""
+  },
+  {
+    "id": 6,
+    "name": "IBM Cybersecurity Fundamentals Specialization",
+    "issuer": "IBM",
+    "date": "In Progress (1 / 4 courses complete)",
+    "status": "in-progress",
+    "details": "Includes: Cybersecurity Foundations, Network Security, Cryptography, Encryption, Identity & Access Management"
   }
 ]
