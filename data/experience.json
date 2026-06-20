@@ -27,20 +27,5 @@
       "Coordinated Jira sprint planning and helped structure development cycles for client website builds from scratch."
     ],
     "tags": ["Expo", "React Native", "Jira", "Authentication", "API Security"]
-  },
-  {
-    "id": 3,
-    "title": "Technical Project Manager",
-    "company": "LUUMI",
-    "location": "Ottawa, ON",
-    "period": "Nov. 2022 – Aug. 2024",
-    "current": false,
-    "bullets": [
-      "Led the redesign and migration of the POS frontend from Tkinter to Qt, significantly improving usability and application performance.",
-      "Managed POS transaction data integrity by working closely with developers to optimise PostgreSQL queries and improve UI responsiveness.",
-      "Partnered with stakeholders to build Power BI reporting dashboards, ensuring accurate data mapping and actionable business insights.",
-      "Coordinated project planning, technical documentation, and cross-team alignment throughout the development lifecycle."
-    ],
-    "tags": ["Qt", "PostgreSQL", "Power BI", "Python", "Project Management"]
   }
 ]
