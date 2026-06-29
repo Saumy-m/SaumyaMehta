@@ -42,7 +42,7 @@ export default function Hero({ profile }) {
             <div className="hero-available">
               <div className="hero-available-dot" />
               <span>
-                Open to on-site, hybrid &amp; remote · Ottawa &amp; anywhere in Canada
+                Open to on-site, hybrid &amp; remote
               </span>
             </div>
 
