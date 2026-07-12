@@ -9,15 +9,15 @@
   },
   {
     "id": 2,
-    "name": "Machine Learning with Python",
+    "name": "Generative AI Advanced Fine-Tuning for LLMs",
     "issuer": "IBM",
-    "date": "May 2026",
+    "date": "July 2026",
     "status": "completed",
     "details": ""
   },
   {
     "id": 3,
-    "name": "Introduction to Deep Learning & Neural Networks with Keras",
+    "name": "Generative AI Language Modeling with Transformers",
     "issuer": "IBM",
     "date": "May 2026",
     "status": "completed",
@@ -25,14 +25,30 @@
   },
   {
     "id": 4,
-    "name": "Developing AI Applications with Python and Flask",
+    "name": "Generative AI and LLMs: Architecture and Data Preparation",
     "issuer": "IBM",
-    "date": "Nov. 2025",
+    "date": "May 2026",
     "status": "completed",
     "details": ""
   },
   {
     "id": 5,
+    "name": "Introduction to Deep Learning & Neural Networks with Keras",
+    "issuer": "IBM",
+    "date": "May 2026",
+    "status": "completed",
+    "details": ""
+  },
+  {
+    "id": 6,
+    "name": "Data Analysis with Python",
+    "issuer": "IBM",
+    "date": "Apr. 2026",
+    "status": "completed",
+    "details": ""
+  },
+  {
+    "id": 7,
     "name": "Generative AI – Prompt Engineering Basics",
     "issuer": "IBM",
     "date": "Aug. 2025",
@@ -40,7 +56,7 @@
     "details": ""
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "IBM Cybersecurity Fundamentals Specialization",
     "issuer": "IBM",
     "date": "In Progress (1 / 4 courses complete)",
